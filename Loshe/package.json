@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-native-open-maps": "^0.4.0",
+    "react-native-svg": "^13.9.0"
+  }
+}
